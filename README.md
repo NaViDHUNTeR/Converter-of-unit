@@ -1,5 +1,5 @@
 # Unit & Currency Converter
-#### Video Demo: <(https://youtu.be/QaN302aFa-g)>
+#### Video Demo: < https://youtu.be/QaN302aFa-g >
 #### Description:
 
 ## Where the Idea Came From
